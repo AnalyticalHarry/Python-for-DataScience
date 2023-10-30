@@ -9,3 +9,4 @@ Data Science
 7. For & Nested Loops
 8. While Loop
 9. Data Types
+10. Type Casting 
