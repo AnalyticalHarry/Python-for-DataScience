@@ -10,3 +10,6 @@ Data Science
 8. While Loop
 9. Data Types
 10. Type Casting 
+11. String Handling
+12. Error Handling
+13. Functions (Data Structure Using Functions)
