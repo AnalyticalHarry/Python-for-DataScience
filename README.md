@@ -1,4 +1,4 @@
-1. [Introduction to python programming]([link_to_python_programming](https://github.com/AnalyticalHarry/PythonPortfolioDataScience/blob/main/1.%20Introduction%20to%20python%20programming.ipynb))
+1. [Introduction to python programming]([link_to_python_programming](https://github.com/AnalyticalHarry/PythonPortfolioDataScience/blob/main/1.%20Introduction%20to%20python%20programming.ipynb)
 2. [Programming Rules](link_to_programming_rules)
 3. [Constant & Variables](link_to_constants_variables)
 4. [Pseudo code](link_to_pseudo_code)
